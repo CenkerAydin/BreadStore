@@ -1,2 +1,2 @@
 # BreadStore
-here you can find  Bread Store project and codes.
+In this repo, I interpret the homework given in our school according to myself and use different methods.
